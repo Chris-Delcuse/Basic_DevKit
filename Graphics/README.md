@@ -1,7 +1,5 @@
 THEMATIC FOLDER
 
-#Graphics #Screen #LibBasic
-
 📺 LoadScrn
 -----------
 - A simple LoadScreen
