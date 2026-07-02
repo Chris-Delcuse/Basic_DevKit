@@ -1,5 +1,7 @@
 GLOBAL FOLDER
 
+The material presented is intended for developers and is not meant to be installed on regular machines, except in a packaged applications form, provided by these same developers.
+
 📝 USAGE NOTE
 -------------
 
