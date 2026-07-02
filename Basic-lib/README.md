@@ -1,7 +1,5 @@
 GLOBAL FOLDER
 
-allez vois faire enculer.
-
 📝 USAGE NOTE
 -------------
 
