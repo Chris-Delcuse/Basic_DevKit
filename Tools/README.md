@@ -1,5 +1,9 @@
 THEMATIC FOLDER
 
+🧹 MainClnr
+-----------
+- Initializes essential variables needed for formal calculation.
+
 ✏️ Set4Drwg
 -----------
 On-the-fly coded program
@@ -8,7 +12,3 @@ On-the-fly coded program
 - Closer as possible to the OS
 - Switch structure
 - Add-on possible via cmd
-
-🧹 MainClnr
------------
-- Initializes essential variables needed for formal calculation.
