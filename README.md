@@ -10,3 +10,5 @@ Made to inspire.
 
 February 26, 2026
 
+![Photography](https://raw.githubusercontent.com/Chris-Delcuse/TI-Basic_OS-v3.10/refs/heads/main/chris%20delcuse.jpg)
+
