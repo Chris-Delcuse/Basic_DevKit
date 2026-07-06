@@ -25,22 +25,18 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 - Find out available locations to 'Define' in graph mode 3D
 - ( For packaged Apps )
 
-⛓️ InStrng2
------------
-- Read a string content.
-  
-⛓️ IsString
-------------
-- Check in RAM the argument is a string.
-  
-📺 ScnDtect
------------
-- Detect the screen configuration.
-
 📺 InitScrn
 -----------
 - Prepare your screen to PxlMode & restore
 - ( Compatible 89, Titanium, 92, 92+ & V200 )
+
+⛓️ IsString
+------------
+- Check in RAM the argument is a string.
+
+⛓️ InStrng2
+-----------
+- Read a string content.
 
 📺 LoadScrn
 -----------
@@ -51,3 +47,7 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 🧹 MainClnr
 ------------
 - initializes essential variables needed for formal calculation.
+
+📺 ScnDtect
+-----------
+- Detect the screen configuration.
