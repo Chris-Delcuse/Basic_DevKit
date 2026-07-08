@@ -1,12 +1,5 @@
 THEMATIC FOLDER
 
-⛓️ IsString
-------------
-- Check in RAM that the argument is a string.
-- (Originaly written for OS2)
-
-✒️  For persistant variables prefer 'getType()'
-
 ⛓️ InStrng2
 ------------
 - Read a string content.
@@ -22,3 +15,10 @@ THEMATIC FOLDER
 🖼 Preview with PxlFont :
 
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/TI-Basic_OS-v3.10/refs/heads/main/String%20Processing/PxlFont_Prev.png)
+
+⛓️ IsString
+------------
+- Check in RAM that the argument is a string.
+- (Originaly written for OS2)
+
+✒️  For persistant variables prefer 'getType()'
