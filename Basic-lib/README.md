@@ -15,14 +15,14 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 ----------
 - Find out available locations to 'Define'.
 
-📈 Fncheck_lite
----------------
-- Find out available locations to 'Define' in graph mode FUNCTION
-- ( For packaged Apps )
-
 📈 Fncheck_3D
 -------------
 - Find out available locations to 'Define' in graph mode 3D
+- ( For packaged Apps )
+
+📈 Fncheck_lite
+---------------
+- Find out available locations to 'Define' in graph mode FUNCTION
 - ( For packaged Apps )
 
 📺 InitScrn
