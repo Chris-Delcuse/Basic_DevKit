@@ -30,13 +30,13 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 - Prepare your screen to PxlMode & restore
 - ( Compatible 89, Titanium, 92, 92+ & V200 )
 
-⛓️ IsString
-------------
-- Check in RAM the argument is a string.
-
 ⛓️ InStrng2
 -----------
 - Read a string content.
+
+⛓️ IsString
+------------
+- Check in RAM the argument is a string.
 
 📺 LoadScrn
 -----------
