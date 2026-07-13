@@ -1,3 +1,7 @@
+The sources presented here are intended to be reserved for programming purposes and in no way claim to be mathematical references. 
+
+That's why you'll find very few 'Func'-type programs.
+
 ⛔️ Variables to exclude :
 -------------------------
 Pay close attention when you create variables !
