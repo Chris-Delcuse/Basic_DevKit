@@ -36,7 +36,7 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 
 🔢 IsPair
 ---------
-- Determine if the number is even or odd
+- Determine if the integer is even or odd
 
 ⛓️ IsString
 ------------
