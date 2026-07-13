@@ -1,4 +1,4 @@
-The sources presented here, are reserved for programming purposes and in no way claim to be mathematical references. 
+The sources presented here, are reserved for automation or programming purposes and in no way claim to be mathematical references. 
 
 That's why you'll find very few 'Func'-type programs.
 
