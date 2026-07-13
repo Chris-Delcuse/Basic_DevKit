@@ -34,6 +34,10 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 -----------
 - Read a string content.
 
+🔢 IsPair
+---------
+- Determine if the number is even or odd
+
 ⛓️ IsString
 ------------
 - Check in RAM the argument is a string.
