@@ -56,7 +56,7 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 -----------
 - Detect the screen configuration.
 
-
+----------
 The sources listed above, are reserved for automation or programming purposes, in no way, they claim to be mathematical references. example with IsPair().
 
 That's why you'll find very few 'Func'-type programs writing on your homescreen.
