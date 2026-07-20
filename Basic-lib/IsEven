@@ -1,4 +1,4 @@
-:IsPair(nbr)
+:IsEven(nbr)
 :Prgm
 :
 :© Determine if nbr
