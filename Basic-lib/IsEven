@@ -5,6 +5,8 @@
 :© is even or odd
 :© Output → ipr
 :
+:ClrErr
+:
 :Abs(nbr)→nbr
 :
 :If nbr≠int(nbr) Then
