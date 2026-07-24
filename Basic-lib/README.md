@@ -14,7 +14,7 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 📒 C4talog (List)
 ----------
 - Complete list of the [CATALOG] functions
-( No "quotation marks", no duplicates )
+- ( No "quotation marks", no duplicates )
 
 📈 FnCheck
 ----------
