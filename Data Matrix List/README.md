@@ -4,9 +4,7 @@ I'm trying here to provide, common structured datas to consider coding an assist
 
 With the [CATALOG], we'll be able to start generating code with our little TI. 
 
-Before that, we'll try it in command-lines
-
-As I'm writing these lines, I already know that it works :), with at least 95% of the catalog.
+Before that, we'll try it in command-lines.
 
 📒 C4talog (List)
 ----------
