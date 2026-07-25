@@ -16,7 +16,7 @@ To go further, it's necessary to investigate the system and equip yourself with 
 📝 Cmd1 :
 
     c4talog[1]&"-2)"→var1
-📝 Cmd2 :
+🚀 Cmd2 :
 
     expr(var1)
 
