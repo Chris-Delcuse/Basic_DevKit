@@ -1,10 +1,10 @@
 THEMATIC FOLDER
 
-I'm trying here to provide, common structured datas to consider coding an assistant or code generators, but personally I wouldn't go beyond that. 
+I'm trying here to provide, common structured datas to consider coding an assistant or code generators, but personally i wouldn't go beyond.
 
 With the [CATALOG], we'll be able to start generating code with our little TI. 
 
-Before that, we'll try it in command-lines.
+Before, we'll try in command-lines.
 
 📒 C4talog (List)
 ----------
