@@ -4,7 +4,7 @@ I'm trying here to provide, common structured datas to consider coding an assist
 
 We already know that via string manipulation, we can create generic code.
 
-With the [CATALOG] we will be able, according to certain criteria, to substitute terms and start consider the intelligible code.
+With the [CATALOG] we will be able, according to certain criteria, to substitute terms and start to consider the code as intelligible.
 
 📒 C4talog (List)
 ----------
