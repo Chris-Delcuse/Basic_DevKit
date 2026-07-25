@@ -15,10 +15,10 @@ To go further, it's necessary to investigate the system and equip yourself with 
 
 📝 Writing Cmd :
 
-    c4talog[1]&"-2)"→var1
+    c4talog[1]&"-2)"→varx
 🚀 Launching Cmd :
 
-    expr(var1)
+    expr(varx)
 
 ↩️ Return :
 
