@@ -10,3 +10,7 @@ To go further, it's necessary to investigate the system and equip yourself with 
 - ( No "quotation mark", no duplicates )
 
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/TI-Basic_OS-v3.10/refs/heads/main/Data%20Matrix%20List/C4talog_preview.png)
+
+Note: Locations respected with 391 functions, commands placed under character strings, such as calling on the homescreen, that is: space included!
+
+quote marks not included, duplicates removed.
