@@ -1,12 +1,8 @@
 THEMATIC FOLDER
 
-I'm trying here to provide, common structured datas to consider coding an assistant or intelligent code generators, but personally i wouldn't go beyond.
+For Nspire owners
 
-We already know that via string manipulation, we can create generic code.
-
-With the c4talog we will be able, according to certain criteria, to substitute terms and start to consider the code as intelligible.
-
-In any case, the c4talog and the upcoming batch of data will remain essential tools to go further 🚀.
+To go further, it's necessary to investigate the system and equip yourself with solid databases like the functions catalog.
 
 📒 C4talog (List)
 ----------
