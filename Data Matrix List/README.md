@@ -13,13 +13,13 @@ To go further, it's necessary to investigate the system and equip yourself with 
 
 - Note: Locations respected with 391 functions, commands placed under character strings, such as called on the homescreen cad : Space included !
 
-Cmd1 :
+📝 Cmd1 :
 
     c4talog[1]&"-2)"→var1
-Cmd2 :
+📝 Cmd2 :
 
     expr(var1)
 
-Return :
+↩️ Return :
 
     2
