@@ -16,6 +16,7 @@ To go further, it's necessary to investigate the system and equip yourself with 
 Example :
 
     c4talog[1]&"-2)"→var1
+    
     expr(var1)
 
 Return :
