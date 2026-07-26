@@ -1,6 +1,6 @@
 THEMATIC FOLDER
 
-For Nspire owners
+For Nspire owners interested in the method,
 
 To go further, it's necessary to investigate the system and equip yourself with solid databases like the functions catalog.
 
