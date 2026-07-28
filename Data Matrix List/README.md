@@ -13,6 +13,17 @@ To go further, it's necessary to investigate the system and equip yourself with 
 
 - Note: Locations respected with 391 functions, commands placed under character strings, such as called on your IDE i.e. space included !
 
-Help : How to remove placement within strings, matrix conversion command:
+Help : How to remove placement within string ?
 
-📝 Writing Cmd : ( manually !)
+📝 Cmd : ( Via the Homescreen Only ! )
+
+Start to type :
+
+    c4tlg
+Result should be seems like this :
+
+    { "abs(" " and " ...... "©" }
+
+delete the quotation marks, save in a new var :
+
+     { abs(  and  ...... © }⇢newc4t
