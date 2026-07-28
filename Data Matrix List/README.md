@@ -19,7 +19,7 @@ Help : How to remove placement within string ?
 
 Convert c4tlg into a matrix :
 
-    List▸(c4tlg)
+    List▸Mat(c4tlg)
     
 Delete the quotation marks & Save it in a new var :
 
