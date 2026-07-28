@@ -23,5 +23,3 @@ Convert c4tlg into a matrix :
 Delete the quotation marks & Save it in a new var :
 
     [ abs( , and , ...... , © ]→nwc4t
-
-Don’t forget to publish on your own github !  
