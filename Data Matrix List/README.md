@@ -13,13 +13,6 @@ To go further, it's necessary to investigate the system and equip yourself with 
 
 - Note: Locations respected with 391 functions, commands placed under character strings, such as called on your IDE i.e. space included !
 
+- Help : How to remove placement within strings, matrix conversion command:
+
 📝 Writing Cmd :
-
-    c4tlg[1]&"-2"&")"→varx
-🚀 Launching Cmd :
-
-    expr(varx)
-
-↩️ Return :
-
-    2
