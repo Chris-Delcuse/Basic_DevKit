@@ -20,7 +20,8 @@ Help : How to remove placement within string ?
 Convert c4tlg into a matrix :
 
     List▸Mat(c4tlg)
-    
 Delete the quotation marks & Save it in a new var :
 
     [ abs( , and , ...... , © ]→nwc4t
+
+Don’t forget to publish on your own github !  
