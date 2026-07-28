@@ -17,13 +17,10 @@ Help : How to remove placement within string ?
 
 📝 Cmd : ( Via the Homescreen Only ! )
 
-Start to type :
+Convert c4tlg into a matrix :
 
-    c4tlg
-Result should be seems like this :
+    List▸(c4tlg)
+    
+Delete the quotation marks & Save it in a new var :
 
-    { "abs(" " and " ...... "©" }
-
-delete the quotation marks, save in a new var :
-
-     { abs(  and  ...... © }⇢newc4t
+    [ abs( , and , ...... , © ]→nwc4t
