@@ -12,7 +12,7 @@ THEMATIC FOLDER
 
     : For a,1,lgt,1:PxlFont(chlst[a],1,25+b):b+1+lpxl→b:EndFor
 
-🖼 Preview with PxlFont :
+🖼 Preview with PxlFont ** :
 
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/TI-Basic_OS-v3.10/refs/heads/main/String%20Processing/PxlFont_Prev.png)
 
@@ -22,3 +22,7 @@ THEMATIC FOLDER
 - (Originaly written for OS2)
 
 ✒️  For persistant variables prefer 'getType()'
+
+-----
+
+** PxlFont is still not available on Github
