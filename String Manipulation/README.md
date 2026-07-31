@@ -22,3 +22,12 @@ Usage Example:
 ---------
 - Powerful pass generator
 - Format : Numeric Digicode Apha-Numeric & special α.
+
+Example :
+
+      pwdgen("Alpha-Num",10)
+      pwd
+
+Return :
+
+      "EnVidExoxo"
