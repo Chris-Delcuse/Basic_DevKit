@@ -2,7 +2,7 @@ THEMATIC FOLDER
 
 📈 FnCheck
 ----------
-- Find out available locations to 'Define'.
+- Find out available locations to 'Define' in all mode.
 
 ⌨️ Cmd Example:
 
