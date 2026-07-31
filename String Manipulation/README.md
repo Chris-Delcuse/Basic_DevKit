@@ -20,7 +20,7 @@ Usage Example:
 
 🔐 PwDGeN ( No GUI )
 ---------
-- Powerful pass generator
+- Powerful pass generator engîne.
 - Format : Numeric Digicode Apha-Numeric & special α.
 
 ⌨️ 1st Cmd :
