@@ -59,7 +59,7 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 
 🔐 PwDGeN ( No GUI )
 ---------
-- Powerful pass generator engîne.
+- Powerful pass generator.
 - Format : Numeric Digicode Apha-Numeric & special α.
 
 📺 ScnDtect
