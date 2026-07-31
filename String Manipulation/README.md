@@ -30,6 +30,3 @@ Usage Example:
 ⌨️ 2nd Cmd :
 
     pwd
-↩️ Return :
-
-    "UrNewpasSW"
