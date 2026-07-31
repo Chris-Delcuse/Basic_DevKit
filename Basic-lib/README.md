@@ -57,6 +57,11 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 ------------
 - initializes essential variables needed for formal calculation.
 
+🔐 PwDGeN ( No GUI )
+---------
+- Powerful pass generator
+- Format : Numeric Digicode Apha-Numeric & special α.
+
 📺 ScnDtect
 -----------
 - Detect the screen configuration.
