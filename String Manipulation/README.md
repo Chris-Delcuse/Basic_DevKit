@@ -20,8 +20,8 @@ Usage Example:
 
 🔐 PwDGeN ( No GUI )
 ---------
-- Powerful pass generator.
-- Format : Numeric Digicode Apha-Numeric & special α.
+- Powerful password generator.
+- Format : Numeric, Digicode, Apha-Numeric & special α.
 
 ⌨️ 1st Cmd :
 
