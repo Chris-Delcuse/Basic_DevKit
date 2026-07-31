@@ -6,7 +6,7 @@ THEMATIC FOLDER
 
 Usage Example:
 
-      : appfolder\FnCheck("PARAMETRIC")
+      appfolder\FnCheck("PARAMETRIC")
 
 📈 Fncheck_3D
 -------------
