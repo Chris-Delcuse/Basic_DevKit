@@ -17,3 +17,8 @@ Usage Example:
 ---------------
 - Find out available locations to 'Define' in graph mode FUNCTION
 - ( For packaged Apps )
+
+🔐 PwdGen
+---------
+- Powerful pass generator
+- Format : Numeric Digicode Apha-Numeric & special α.
