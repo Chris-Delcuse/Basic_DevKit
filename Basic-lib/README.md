@@ -7,7 +7,7 @@ DURING DEVELOPMENT, DO LIKE THIS ON YOUR OWN DEVICE,
 
 FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' TO IMPORT THE LIBRARY LIKE 'Import' IN PYTHON OR '#Include' IN C.
 
-    : CopyVar main\LibName, appfolder\LibName
+    CopyVar main\LibName, appfolder\LibName
 
 This will be more consistent than handling the librairies from the [VAR-LINK] menu.
 
