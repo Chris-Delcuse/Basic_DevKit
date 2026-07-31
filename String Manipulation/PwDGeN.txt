@@ -1,0 +1,63 @@
+: pwdgen(pwtp,pwdg)
+: prgm
+:
+: © Input ("STR",DEC)
+: © "Num" 4 to 32
+: © "Digicode" 5 or 6
+: © "Alpha–Num" 4 to 32
+: © "Spe–aNum" 4 to 32
+:
+: © Output : "PwD"
+:
+: Local i,n,pwdtab
+:
+{"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","0","1","2","3","4","5","6","7","8","9","a","b","c","d","e","f","g","h","i","j","k","l","m","n",o","p","q","r","s","t","u","v","w","x","y","z",",","!","#","$","%","&","?","_","+","–","/","\","=","<",">",":","^"}→pwdtab
+:
+: ""→pwd
+: 0→i
+:
+: If pwtp="Num" Then
+:  For i,1,pwdg,1
+:   int(10×rand())→n
+:   exact(n)→n
+:   pwd&string(n)→pwd
+:  EndFor
+: EndIf
+: 
+: If pwtp="Digicode" Then
+:  For i,1,4,1
+:   int(10×rand())→n
+:   exact(n)→n
+:   pwd&string(n)→pwd
+:  EndFor
+:  pwd&"–"→pwd
+:  int(2×rand())→n
+:  exact(n)+1→n
+:  pwd&pwdtab[n]→pwd
+:   If pwdg≥6 Then
+:    int(2×rand())→n
+:    exact(n)+1→n
+:    pwd&pwdtab[n]→pwd
+:   EndIf
+: EndIf
+:
+: If pwtp="Alpha–Num" Then
+:  For i,1,pwdg,1
+:   int(62×rand())→n
+:   exact(n)+1→n
+:   pwd&pwdtab[n]→pwd
+:  EndFor
+: EndIf
+:
+: If pwtp="Spe–aNum" Then
+:  int(26×rand())→n
+:  exact(n)+1→n
+:  pwdtab[n]→pwd
+:  For i,1,pwdg–1,1
+:   int(78×rand())→n
+:   exact(n)+1→n
+:   pwd&pwdtab[n]→pwd
+:  EndFor
+: EndIf
+:
+: EndPrgm
