@@ -23,10 +23,7 @@ Usage Example:
 - Powerful password generator.
 - Format : Numeric, Digicode, Apha-Numeric & special α.
 
-⌨️ 1st Cmd :
+⌨️ Cmd :
 
     pwdgen("Alpha-Num",10)
-    
-⌨️ 2nd Cmd :
 
-    pwd
