@@ -23,11 +23,13 @@ Usage Example:
 - Powerful pass generator
 - Format : Numeric Digicode Apha-Numeric & special α.
 
-Example :
+1st Cmd :
 
-      pwdgen("Alpha-Num",10)
-      pwd
+    pwdgen("Alpha-Num",10)
+    
+2nd Cmd :
 
+    pwd
 Return :
 
-      "EnVidExoxo"
+    "EnVidExoxo"
