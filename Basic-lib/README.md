@@ -59,8 +59,8 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 
 🔐 PwDGeN ( No GUI )
 ---------
-- Powerful pass generator.
-- Format : Numeric Digicode Apha-Numeric & special α.
+- Powerful password generator.
+- Format : Numeric, Digicode, Apha-Numeric & special α.
 
 📺 ScnDtect
 -----------
