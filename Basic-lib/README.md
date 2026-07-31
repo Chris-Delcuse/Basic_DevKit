@@ -18,7 +18,7 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 
 📈 FnCheck
 ----------
-- Find out available locations to 'Define'.
+- Find out available locations to 'Define' in all mode.
 
 📈 Fncheck_3D
 -------------
