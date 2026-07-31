@@ -68,4 +68,4 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 
 ----------
 
-**  The sources listed above, are reserved for automation and programming purposes, They don't claim to be a math reference.
+**  This source, is reserved for automation and programming purposes, and don't claim to be a math reference.
