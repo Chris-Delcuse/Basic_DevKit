@@ -1,72 +1,72 @@
-:FnCheck(m)
-:Prgm
-:
-:© Check available
-:© Entries in graph mode
-:© Returns list → fnlst
-:©
-:© Supported Argument
-:© "FUNCTION"
-:© "PARAMETRIC" "POLAR"
-:© "SEQUENCE" "3D"
-:® & "DIFF EQUATIONS"
-:
-:ClrErr
-:
-:DelVar fnlst
-:
-:Local a,eq,var,eqs
-:Local eqsv,smea,smb
-:
-:setMode("Exact/Approx","AUTO")→smea
-:setMode("Base","DEC")→smb
-:
-:0→a
-:0→eqsv
-:{}→fnlst
-:""→eq
-:""→eqs
-:""→var
-:
-:If m="FUNCTION" Then
-: "y"→eq
-: "(x)"→var
-:EndIf
-:
-:If m="PARAMETRIC" Then
-: "yt"→eq
-: "(t)"→var
-:EndIf
-:
-:If m="POLAR" Then
-: "r"→eq
-: "(θ)"→var
-:EndIf
-:
-:If m="SEQUENCE" Then
-: "ui"→eq
-:EndIf
-:
-:If m="3D" Then
-: "z"→eq
-: "(x,y)"→var
-:EndIf
-:
-:If m="DIFF EQUATIONS" Then
-: "yi"→eq
-:EndIf
-:
-:For a,1,99,1
-: eq&string(a)&var→eqs
-: expr(eqs)→eqsv
-: If string(eqsv)≠eqs Then
-:  1→fnlst[a]
-: Else
-:  0→fnlst[a]
-: EndIf
-:EndFor
-:
-:setMode("Exact/Approx",smea)
-:setMode("Base",smb)
-:
-:EndPrgm
+FnCheck(m)
+Prgm
+
+© Check available
+© Entries in graph mode
+© Returns list → fnlst
+
+© Supported Argument
+© "FUNCTION"
+© "PARAMETRIC" "POLAR"
+© "SEQUENCE" "3D"
+® & "DIFF EQUATIONS"
+
+ClrErr
+
+DelVar fnlst
+
+Local a,eq,var,eqs
+Local eqsv,smea,smb
+
+setMode("Exact/Approx","AUTO")→smea
+setMode("Base","DEC")→smb
+
+0→a
+0→eqsv
+{}→fnlst
+""→eq
+""→eqs
+""→var
+
+If m="FUNCTION" Then
+ "y"→eq
+ "(x)"→var
+EndIf
+
+If m="PARAMETRIC" Then
+ "yt"→eq
+ "(t)"→var
+EndIf
+
+If m="POLAR" Then
+ "r"→eq
+ "(θ)"→var
+EndIf
+
+If m="SEQUENCE" Then
+ "ui"→eq
+EndIf
+
+If m="3D" Then
+ "z"→eq
+ "(x,y)"→var
+EndIf
+
+If m="DIFF EQUATIONS" Then
+ "yi"→eq
+EndIf
+
+For a,1,99,1
+ eq&string(a)&var→eqs
+ expr(eqs)→eqsv
+ If string(eqsv)≠eqs Then
+  1→fnlst[a]
+ Else
+  0→fnlst[a]
+ EndIf
+EndFor
+
+setMode("Exact/Approx",smea)
+setMode("Base",smb)
+
+EndPrgm
