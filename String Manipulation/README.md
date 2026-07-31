@@ -4,7 +4,7 @@ THEMATIC FOLDER
 ----------
 - Find out available locations to 'Define'.
 
-Usage Example:
+⌨️ Cmd Example:
 
       appfolder\FnCheck("PARAMETRIC")
 
@@ -23,7 +23,7 @@ Usage Example:
 - Powerful password generator.
 - Format : Numeric, Digicode, Apha-Numeric & special α.
 
-⌨️ Cmd :
+⌨️ Cmd Example :
 
     pwdgen("Alpha-Num",10)
 
