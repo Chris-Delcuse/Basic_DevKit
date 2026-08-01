@@ -55,7 +55,7 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 
 🧹 MainClnr
 ------------
-- initializes essential variables needed for formal calculation.
+- Initializes essential variables needed for formal calculation.
 
 🔐 PwDGeN ( No GUI )
 ---------
