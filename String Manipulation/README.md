@@ -21,7 +21,7 @@ THEMATIC FOLDER
 🔐 PwDGeN ( No GUI )
 ---------
 - Powerful password generator.
-- Format : Numeric, Digicode, Apha-Numeric & special αNumeric.
+- Formats : Numeric, Digicode, Apha-Numeric & Special α-Numeric.
 
 ⌨️ Cmd Example :
 
