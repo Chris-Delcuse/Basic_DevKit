@@ -1,11 +1,11 @@
-:GhTbsync()
-:Prgm
-:
-:© Usage Example
-:© Graph/Tab Synchro
-:
-:setTable("Graph <-> Table","OFF")
-:xmin→tblStart
-:xscl→Δtbl
-:
-:EndPrgm
+GhTbsync()
+Prgm
+
+© Usage Example
+© Graph/Tab Synchro
+
+setTable("Graph <-> Table","OFF")
+xmin→tblStart
+xscl→Δtbl
+
+EndPrgm
