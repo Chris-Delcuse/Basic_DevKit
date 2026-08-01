@@ -1,32 +1,33 @@
-:InStrng2(str)
-:Prgm
+InStrng2(str)
+Prgm
+
+© Read a string content
+© Returns str as
+© char nbr list → chlst
+© & Length of str as
+© Decml var → lgt
+
+ClrErr
+
+Local i,ch,strl,smb
+
 :
-:© Read a string content
-:© Returns str as
-:© char nbr list → chlst
-:© & Length of str as
-:© Decml var → lgt
-:
-:ClrErr
-:
-:Local i,ch,strl,smb
-:
-:setMode("Base","DEC")→smb
-:
-:0→i
-:0→lgt
-:""→ch
-:""→strl
-:{}→chlst
-:
-:dim(str)→lgt
-:
-:For i,1,lgt,1
-: left(str,i)→strl
-: right(strl,1)→ch
-: ord(ch)→chlst[i]
-:EndFor
-:
-:setMode("Base",smb)
-:
-:EndPrgm
+setMode("Base","DEC")→smb
+
+0→i
+0→lgt
+""→ch
+""→strl
+{}→chlst
+
+dim(str)→lgt
+
+For i,1,lgt,1
+ left(str,i)→strl
+ right(strl,1)→ch
+ ord(ch)→chlst[i]
+EndFor
+
+setMode("Base",smb)
+
+EndPrgm
