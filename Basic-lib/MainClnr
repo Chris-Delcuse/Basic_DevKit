@@ -1,18 +1,18 @@
-:MainClnr()
-:Prgm
-:
-:© Main Cleaner
-:
-:ClrErr
-:
-:setFold(main)→sfm
-:
-:© Remarkable ID
-:DelVar a,b,c,d
-:
-:© Sys Fn Vars
-:DelVar x,y,z,t,θ,n
-:
-:setFold(#sfm)
-:
-:EndPrgm
+MainClnr()
+Prgm
+
+© Main Cleaner
+
+ClrErr
+
+setFold(main)→sfm
+
+© Remarkable ID
+DelVar a,b,c,d
+
+© Sys Fn Vars
+DelVar x,y,z,t,θ,n
+
+setFold(#sfm)
+
+EndPrgm
