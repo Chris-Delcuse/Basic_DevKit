@@ -1,74 +1,74 @@
-:Set4Drwg()
-:Prgm
-:
-:© 1st Launch→Set is On
-:© 2nd Launch→Set is Off
-:
-:© For Drawing Scale 1x
-:© Use OS Fonction [F7]
-:© (Pencil, Line...Save)
-:© Easy-to-read :
-:© Coord(-y,x) = Pxl(r,c)
-:
-:ClrErr
-:
-:Local gcg,w,h,st
-:
-:{xmin,xmax,ymin,ymax}→st
-:
-:getConfg()[10]→gcg
-:
-:If gcg>160 Then
-: 238→w
-: -102→h
-:Else
-: 158→w
-: -76→h
-:EndIf
-:
-:If st≠{0,h,w,0} Then
-: setMode("Graph","FUNCTION")→smg
-: setGrpah("Axes","OFF")→sga
-: setGraph("Labels","OFF")→sgl
-: setGraph("Grid","OFF")→sgg
-:
-: FnOff
-: 
-: {}→wlst
-:
-: xmin→wlst[1]
-: xmax→wlst[2]
-: xscl→wlst[3]
-: ymin→wlst[4]
-: ymax→wlst[5]
-: yscl→wlst[6]
-:
-: 0→xmin
-: w→xmax
-: h→ymin
-: 0→ymax
-:
-: DispG
-: 
-: Text "Set Ready!"
-:
-:ElseIf st={0,h,w,0} Then
-: setMode("Graph",smg)
-: setGraph("Axes",sga)
-: setGraph("Labels",sgl)
-: setGraph("Grid",sgg)
-:
-: wlst[1]→xmin
-: wlst[2]→xmax
-: wlst[3]→xscl
-: wlst[4]→ymin
-: wlst[5]→ymax
-: wlst[6]→yscl
-:
-: DelVar smg,sga,sgl
-: DelVar sgg,wlst
-:
-: Text "Window Settings Restored ✓"
-:EndIf
-:
-:EndPrgm
+Set4Drwg()
+Prgm
+
+© 1st Launch→Set is On
+© 2nd Launch→Set is Off
+
+© For Drawing Scale 1x
+© Use OS Fonction [F7]
+© (Pencil, Line...Save)
+© Easy-to-read :
+© Coord(-y,x) = Pxl(r,c)
+
+ClrErr
+
+Local gcg,w,h,st
+
+{xmin,xmax,ymin,ymax}→st
+
+getConfg()[10]→gcg
+
+If gcg>160 Then
+ 238→w
+ -102→h
+Else
+ 158→w
+ -76→h
+EndIf
+
+If st≠{0,h,w,0} Then
+ setMode("Graph","FUNCTION")→smg
+ setGrpah("Axes","OFF")→sga
+ setGraph("Labels","OFF")→sgl
+ setGraph("Grid","OFF")→sgg
+
+ FnOff
+ 
+ {}→wlst
+
+ xmin→wlst[1]
+ xmax→wlst[2]
+ xscl→wlst[3]
+ ymin→wlst[4]
+ ymax→wlst[5]
+ yscl→wlst[6]
+
+ 0→xmin
+ w→xmax
+ h→ymin
+ 0→ymax
+
+ DispG
+ 
+ Text "Set Ready!"
+
+ElseIf st={0,h,w,0} Then
+ setMode("Graph",smg)
+ setGraph("Axes",sga)
+ setGraph("Labels",sgl)
+ setGraph("Grid",sgg)
+
+ wlst[1]→xmin
+ wlst[2]→xmax
+ wlst[3]→xscl
+ wlst[4]→ymin
+ wlst[5]→ymax
+ wlst[6]→yscl
+
+ DelVar smg,sga,sgl
+ DelVar sgg,wlst
+
+ Text "Window Settings Restored ✓"
+EndIf
+
+EndPrgm
