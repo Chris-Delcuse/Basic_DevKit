@@ -28,7 +28,7 @@ If pwtp="Num" Then
   exact(n)→n
   pwd&string(n)→pwd
  EndFor
- EndIf
+EndIf
 
 If pwtp="Digicode" Then
  For i,1,4,1
