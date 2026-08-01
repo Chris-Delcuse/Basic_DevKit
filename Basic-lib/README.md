@@ -11,9 +11,7 @@ FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' TO IMPORT T
 
 This will be more consistent than handling the librairies from the [VAR-LINK] menu.
 
-And call them when it’s needed :
-
-    LibName(Arg1,Arg2...)
+Code & files optimization ( refactoring ) will coming when your code will run perfectly !
 
 📒 C4talog (List)
 ----------
