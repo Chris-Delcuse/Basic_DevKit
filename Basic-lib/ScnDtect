@@ -1,21 +1,21 @@
-:ScnDtect()
-:Prgm
-:
-:© Get screen config
-:© scn→takes the value
-:© "SMALL" or "LARGE"
-:
-:ClrErr
-:
-:Local gcg
-:""→scn
-:
-:getConfg()[10]→gcg
-:
-:If gcg>160 Then
-: "LARGE"→scn
-:Else
-: "SMALL"→scn
-:EndIf
-:
-:EndPrgm
+ScnDtect()
+Prgm
+
+© Get screen config
+© scn→takes the value
+© "SMALL" or "LARGE"
+
+ClrErr
+
+Local gcg
+""→scn
+
+getConfg()[10]→gcg
+
+If gcg>160 Then
+ "LARGE"→scn
+Else
+ "SMALL"→scn
+EndIf
+
+EndPrgm
