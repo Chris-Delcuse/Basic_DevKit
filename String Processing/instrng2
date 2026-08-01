@@ -11,7 +11,6 @@ ClrErr
 
 Local i,ch,strl,smb
 
-:
 setMode("Base","DEC")→smb
 
 0→i
