@@ -6,7 +6,7 @@ THEMATIC FOLDER
 
 ⌨️ Cmd Example:
 
-      appfolder\FnCheck("PARAMETRIC")
+    appfolder\FnCheck("PARAMETRIC")
 
 📈 Fncheck_3D
 -------------
