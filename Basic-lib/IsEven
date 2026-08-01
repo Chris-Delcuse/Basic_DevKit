@@ -1,20 +1,20 @@
-:IsEven(nbr)
-:Prgm
-:
-:© Determine if nbr
-:© is even or odd
-:© Output → ipr
-:
-:ClrErr
-:
-:Abs(nbr)→nbr
-:
-:If nbr≠int(nbr) Then
-: undef→ipr
-:ElseIf mod(nbr,2)=0 Then
-: even→ipr
-:Else
-: odd→ipr
-:EndIf
-:
-:EndPrgm
+IsEven(nbr)
+Prgm
+
+© Determine if nbr
+© is even or odd
+© Output → ipr
+
+ClrErr
+
+Abs(nbr)→nbr
+
+If nbr≠int(nbr) Then
+ undef→ipr
+ElseIf mod(nbr,2)=0 Then
+ even→ipr
+Else
+ odd→ipr
+EndIf
+
+EndPrgm
