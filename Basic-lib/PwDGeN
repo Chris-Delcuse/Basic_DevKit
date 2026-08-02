@@ -11,7 +11,7 @@ prgm
 
 ClrErr
 
-Local i,n,pwdtab
+Local bs,i,n,pwdtab
 
 setMode("Base","DEC")→bs
 
