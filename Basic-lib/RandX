@@ -3,7 +3,7 @@ Func
 
 © with mp=1 RandX
 © returns an integer 0-9
-© in all mode BASE
+© in all BASE mode
 © mp is a multiplier
 
 abs(mp)→mp
