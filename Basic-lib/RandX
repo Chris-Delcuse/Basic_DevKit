@@ -5,6 +5,6 @@ Func
 © Returns an integer 1-10
 © mp is a multiplier
 
-mp×exact(int(rand(10)))+1
+mp×exact(int(rand(10)))
 
 EndFunc
