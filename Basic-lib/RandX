@@ -2,9 +2,9 @@ RandX(mp)
 Func
 
 © With mp=1 RandX
-© Returns an integer 0-9
+© Returns an integer 1-10
 © mp is a multiplier
 
-mp×exact(int(10rand()))
+mp×exact(int(10rand()))+1
 
 EndFunc
