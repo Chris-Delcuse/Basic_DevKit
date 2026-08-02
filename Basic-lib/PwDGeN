@@ -41,31 +41,26 @@ If pwtp="Digicode" Then
   pwd&string(n)→pwd
  EndFor
  pwd&"–"→pwd
- int(2×rand())→n
- exact(n)+1→n
+ rand(2)→n
  pwd&pwdtab[n]→pwd
   If pwdg≥6 Then
-   int(2×rand())→n
-   exact(n)+1→n
+   rand(2)→n
    pwd&pwdtab[n]→pwd
   EndIf
 EndIf
 
 If pwtp="Alpha–Num" Then
  For i,1,pwdg,1
-  int(62×rand())→n
-  exact(n)+1→n
+  rand(62)→n
   pwd&pwdtab[n]→pwd
  EndFor
 EndIf
 
 If pwtp="Sp–aNum" Then
- int(26×rand())→n
- exact(n)+1→n
+ rand(26)→n
  pwdtab[n]→pwd
  For i,1,pwdg–1,1
-  int(78×rand())→n
-  exact(n)+1→n
+  rand(78)→n
   pwd&pwdtab[n]→pwd
  EndFor
 EndIf
