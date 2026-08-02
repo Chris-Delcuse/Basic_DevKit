@@ -28,16 +28,14 @@ EndIf
 
 If pwtp="Num" Then
  For i,1,pwdg,1
-  int(10×rand())→n
-  exact(n)→n
+  rand(10)-1→n
   pwd&string(n)→pwd
  EndFor
 EndIf
 
 If pwtp="Digicode" Then
  For i,1,4,1
-  int(10×rand())→n
-  exact(n)→n
+  rand(10)-1→n
   pwd&string(n)→pwd
  EndFor
  pwd&"–"→pwd
