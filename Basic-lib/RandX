@@ -1,0 +1,12 @@
+RandX(mp)
+Func
+
+© with mp=1 RandX
+© returns an integer 0-9
+© in all mode Bin & Hex
+© mp is a multiplier
+
+abs(mp)→mp
+mp×exact(int(10×rand()))
+
+EndFunc
