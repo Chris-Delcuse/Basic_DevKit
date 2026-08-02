@@ -29,7 +29,6 @@ EndIf
 If pwtp="Num" Then
  For i,1,pwdg,1
   rand(10)-1→n
-  exact(n)→n
   pwd&string(n)→pwd
  EndFor
 EndIf
