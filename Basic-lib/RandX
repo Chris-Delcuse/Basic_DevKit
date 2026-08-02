@@ -6,7 +6,7 @@ Func
 © in all BASE mode
 © mp is a multiplier
 
-abs(mp)→mp
+abs(int(mp))→mp
 mp×exact(int(10×rand()))
 
 EndFunc
