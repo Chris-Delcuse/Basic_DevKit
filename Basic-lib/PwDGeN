@@ -20,12 +20,6 @@ setMode("Base","DEC")→bs
 ""→pwd
 0→i
 
-If pwdg<4 Then
- 4→pwdg
-ElseIf pwdg>32 Then
- 32→pwdg
-EndIf
-
 If pwtp="Num" Then
  For i,1,pwdg,1
   rand(10)-1→n
