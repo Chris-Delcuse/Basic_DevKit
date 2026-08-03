@@ -20,11 +20,6 @@ setMode("Base","DEC")→bs
 ""→pwd
 0→i
 
-If pwdg<4 Then
- 4→pwdg
-ElseIf pwdg>32 Then
- 32→pwdg
-
 If pwtp="Num" Then
  For i,1,pwdg,1
   rand(10)-1→n
@@ -60,12 +55,6 @@ If pwtp="Sp–aNum" Then
   rand(78)→n
   pwd&pwdtab[n]→pwd
  EndFor
-EndIf
-
-Else 
-
-"pwdgen(pwtp,pwdg) must be 4 ≤ pwdg ≤ 32"→pwd
-
 EndIf
 
 setMode("Base",bs)
