@@ -1,65 +1,65 @@
-"Abs("
-" and "
-"AndPic "
-"angle("
-"ans("
-"approx("
-"Archive "
-"arcLen("
-"augment("
-"avgRC"
-"▸Bin"
-"BldData "
-"ceilling("
-"cFactor("
-"char("
-"checkTmr("
-"Circle "
-"ClockOff"
-"ClockOn"
-"ClrDraw"
-"ClrErr"
-"ClrGraph"
-"ClrHome"
-"ClrIO"
-"ClrTable"
-"colDim("
-"colNorm("
-"comDenom("
-"conj("
-"CopyVar "
-"cos("
-"cos⁻¹("
-"cosh("
-"cosh⁻¹("
-"cot("
-"cot⁻¹("
-"coth("
-"coth⁻¹("
-"crossP("
-"csc("
-"csc⁻¹("
-"csch("
-"csch⁻¹("
-"cSolve("
-"CubicReg "
-"cumSum("
-"CustmOff"
-"CustmOn"
-"Custom"
-"Cycle"
-"CyclePic "
-"▸Cylind"
-"cZeros("
-"Data▸Mat "
-"dayOfWk("
-"∂("
-"▸DD"
-"▸Dec"
-"Define "
-"DelFold "
-"DelType "
-"DelVar "
+|      "Abs(" |
+|     " and " |
+|   "AndPic " |
+|    "angle(" |
+|      "ans(" |
+|   "approx(" |
+|  "Archive " |
+|   "arcLen(" |
+|  "augment(" |
+|     "avgRC" |
+|      "▸Bin" |
+|  "BldData " |
+| "ceilling(" |
+|  "cFactor(" |
+|     "char(" |
+| "checkTmr(" |
+|   "Circle " |
+|  "ClockOff" |
+|   "ClockOn" |
+|   "ClrDraw" |
+|    "ClrErr" |
+|  "ClrGraph" |
+|   "ClrHome" |
+|     "ClrIO" |
+|  "ClrTable" |
+|   "colDim(" |
+|  "colNorm(" |
+| "comDenom(" |
+|     "conj(" |
+|  "CopyVar " |
+|      "cos(" |
+|    "cos⁻¹(" |
+|     "cosh(" |
+|   "cosh⁻¹(" |
+|      "cot(" |
+|    "cot⁻¹(" |
+|     "coth(" |
+|   "coth⁻¹(" |
+|   "crossP(" |
+|      "csc(" |
+|    "csc⁻¹(" |
+|     "csch(" |
+|   "csch⁻¹(" |
+|   "cSolve(" |
+| "CubicReg " |
+|   "cumSum(" |
+|  "CustmOff" |
+|   "CustmOn" |
+|    "Custom" |
+|     "Cycle" |
+| "CyclePic " |
+|   "▸Cylind" |
+|   "cZeros(" |
+| "Data▸Mat " |
+|  "dayOfWk(" |
+|        "∂(" |
+|       "▸DD" |
+|      "▸Dec" |
+|   "Define " |
+|  "DelFold " |
+|  "DelType " |
+|   "DelVar " |
 "deSolve("
 "det("
 "diag("
