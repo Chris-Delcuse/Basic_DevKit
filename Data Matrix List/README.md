@@ -2,7 +2,7 @@ THEMATIC FOLDER
 
 For Nspire owners interested in the method,
 
-To go further and to develop code generation by manipulating strings, it's necessary to investigate the system and equip yourself with solid databases like the functions catalog.
+To go further and develop code generation, finally get a firsthand feel for the concept of specilized AI, it's necessary to investigate the system and equip yourself with solid databases like the functions catalog.
 
 📒 C4tlg (List)
 --------
