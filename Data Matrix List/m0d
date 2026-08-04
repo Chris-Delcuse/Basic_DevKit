@@ -1,6 +1,6 @@
-| "SetMode(" | "Graph"   | "FUNCTION"       |
-|         "" | "Graph2"  | "PARAMETRIC"     |
-|         "" |        "" | "POLAR"          |
-|         "" |        "" | "SEQUENCE"       |
-|         "" |        "" | "3D"             |
-|         "" |        "" | "DIFF EQUATIONS" |
+| "SetMode(" |  "Graph" |       "FUNCTION" |
+|         "" | "Graph2" |     "PARAMETRIC" |
+|         "" |       "" |          "POLAR" |
+|         "" |       "" |       "SEQUENCE" |
+|         "" |       "" |             "3D" |
+|         "" |       "" | "DIFF EQUATIONS" |
