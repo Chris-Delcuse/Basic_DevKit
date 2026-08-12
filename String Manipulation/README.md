@@ -27,3 +27,4 @@ THEMATIC FOLDER
 
     pwdgen("Alpha-Num",10)
 
+✒️ Note: GUI is needed to secure entries.
