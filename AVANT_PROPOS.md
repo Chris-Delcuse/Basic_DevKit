@@ -9,8 +9,7 @@ ALL THE NAME FUNCTIONS INTO THE [CATALOG] AND SYSTEM VARIABLES IN THE [VAR-LINK]
 
 In some cases, it may NOT crash the program but due stability reasons, CONSIDERABLY increase the debugging time.
 
-Example with the var 'mode' :
-- This var is unstable, prefer the use of 'm0de'.
+This the case with the var 'mode', This var is unstable, prefer the use of 'm0de'.
 
 🛟 Pitfall to avoid :
 ---------------------
