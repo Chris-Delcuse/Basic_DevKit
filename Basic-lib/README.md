@@ -1,5 +1,9 @@
 GLOBAL FOLDER
 
+THIS IS A DEV KIT, THIS GLOBAL FOLDER AIMS TO LOOK LIKE YOUR \main.
+
+( There is no package ).
+
 📝 USAGE NOTE
 -------------
 
@@ -65,7 +69,6 @@ This will be more consistent than handling the librairies from the [VAR-LINK] me
 📺 ScnDtect
 -----------
 - Detect the screen configuration.
-
 ----------
 
 **  This source, is reserved for automation and programming purposes, and don't claim to be a math reference.
