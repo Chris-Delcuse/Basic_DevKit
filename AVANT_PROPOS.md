@@ -14,12 +14,9 @@ Example with the var 'mode' :
 
 🛟 Pitfall to avoid :
 ---------------------
-Avoid naming your folders with only one letter.
+Avoid naming your folders with only one letter, to ensure stability with 'For’ Loops :
 
-Example of 'For’ Loops :
-- So, ensure your incremented variables are different from your folder names.
-
-Furthermore, unique variables type ALPHA, are commonly used for formal computation. (or 'Func' for executables)
+Unique variables type ALPHA, are commonly used for formal computation. (or 'Func' for executables)
 
 📌 My advice :
 --------------
