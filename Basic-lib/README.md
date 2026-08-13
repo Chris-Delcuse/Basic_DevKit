@@ -15,7 +15,7 @@ TO MANAGE YOUR MULTIPLE PROJECTS FROM THE `\main`, USE `CopyVar` AT THE BEGINNIN
 
 This will be more consistent than handling the librairies from the `[VAR-LINK]` menu
 
-( Stay focus on your code, final packages will different from projects )
+( Stay focus on your code, final packages will be different from projects )
 
 📒 C4talog (List)
 ----------
