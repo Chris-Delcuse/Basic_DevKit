@@ -13,7 +13,7 @@ FOR DEDICATED PROGRAMS, USE `CopyVar` AT THE BEGINNING OF THE `Prgm` TO IMPORT T
 
     CopyVar main\LibName, appfolder\LibName
 
-This will be more consistent than handling the librairies from the `[VAR-LINK]` menu
+This will be more consistent to manage multiple projects and keep them up to date from the `\main` than handling the librairies from the `[VAR-LINK]` menu
 
 
 📒 C4talog (List)
