@@ -9,12 +9,13 @@ THIS IS A DEV KIT, THIS GLOBAL FOLDER AIMS TO LOOK LIKE YOUR `\main`
 
 DURING DEVELOPMENT, DO LIKE THIS ON YOUR OWN DEVICE,
 
-FOR DEDICATED PROGRAMS, USE `CopyVar` AT THE BEGINNING OF THE `Prgm` TO IMPORT THE LIBRARY LIKE `Import` IN PYTHON OR `#Include` IN C.
+TO MANAGE YOUR MULTIPLE PROJECTS FROM THE `\main`, USE `CopyVar` AT THE BEGINNING OF THE `Prgm` TO IMPORT THE LIBRARY LIKE `Import` IN PYTHON OR `#Include` IN C.
 
     CopyVar main\LibName, appfolder\LibName
 
 This will be more consistent than handling the librairies from the `[VAR-LINK]` menu
 
+( Stay focus on your code, final packages will different from projects )
 
 📒 C4talog (List)
 ----------
