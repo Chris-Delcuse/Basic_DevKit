@@ -1,6 +1,6 @@
 GLOBAL FOLDER
 
-THIS IS A DEV KIT, THIS GLOBAL FOLDER AIMS TO LOOK LIKE YOUR \main.
+THIS IS A DEV KIT, THIS GLOBAL FOLDER AIMS TO LOOK LIKE YOUR `\main`
 
 ( There is no package ).
 
@@ -9,29 +9,29 @@ THIS IS A DEV KIT, THIS GLOBAL FOLDER AIMS TO LOOK LIKE YOUR \main.
 
 DURING DEVELOPMENT, DO LIKE THIS ON YOUR OWN DEVICE,
 
-FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' TO IMPORT THE LIBRARY LIKE 'Import' IN PYTHON OR '#Include' IN C.
+FOR DEDICATED PROGRAMS, USE `CopyVar` AT THE BEGINNING OF THE `Prgm` TO IMPORT THE LIBRARY LIKE `Import` IN PYTHON OR `#Include` IN C.
 
     CopyVar main\LibName, appfolder\LibName
 
-This will be more consistent than handling the librairies from the [VAR-LINK] menu.
+This will be more consistent than handling the librairies from the `[VAR-LINK]` menu.
 
 📒 C4talog (List)
 ----------
-- Complete list of the [CATALOG] functions
+- Complete list of the `[CATALOG]` functions
 - ( No "quotation mark", no duplicates )
 
 📈 FnCheck
 ----------
-- Find out available locations to 'Define' in all mode.
+- Find out available locations to `Define` in all mode.
 
 📈 Fncheck_3D
 -------------
-- Find out available locations to 'Define' in graph mode 3D
+- Find out available locations to `Define` in graph mode 3D
 - ( For packaged Apps )
 
 📈 Fncheck_lite
 ---------------
-- Find out available locations to 'Define' in graph mode FUNCTION
+- Find out available locations to `Define` in graph mode `FUNCTION`
 - ( For packaged Apps )
 
 📺 InitScrn
