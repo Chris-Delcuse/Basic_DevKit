@@ -6,7 +6,7 @@ THIS IS A DEV KIT, THIS GLOBAL FOLDER AIMS TO LOOK LIKE YOUR \main.
 
 📝 USAGE NOTE
 -------------
-    mindSet ( "DEV", "PRO" )
+    mindSet ( "DEV", "PRO" ) 😁
 
 DURING DEVELOPMENT, DO LIKE THIS ON YOUR OWN DEVICE,
 
