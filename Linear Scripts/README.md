@@ -6,7 +6,7 @@ THEMATIC FOLDER
 Switching between lessons and coding sessions, or trying out other applications, isn't always easy.
 
 For this example,
-I'm offering a linear TI-89 script, this is a configuration, complete as possible to the factory settings, safer than Mem-Menu.
+I'm offering a linear TI-89 script, this is a configuration, complete as possible to the factory settings, safer than `[Mem-Menu]`.
 
 You can easily remove useless settings, change every settîngs to your own, cut in multiple cfg files !
 
