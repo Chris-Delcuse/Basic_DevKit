@@ -1,6 +1,6 @@
 📌 Script via cmd :
 -------------------
-Example with cstmkill() code
+Example with `cstmkill()` code
 
 📝 Code : ( Writing )
 
