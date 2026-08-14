@@ -21,6 +21,8 @@ Try
   ClrDraw
  EndIf
 
+DispHome
+
 Else
  setMode ("Graph","FUNCTION")→smg
  setMode("Axes","OFF")→sga
@@ -30,7 +32,5 @@ Else
  PlotsOff
  FnOff
 EndTry
-
-DispHome
 
 EndPrgm
