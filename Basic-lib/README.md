@@ -7,9 +7,7 @@ THIS IS A DEV KIT, THIS GLOBAL FOLDER AIMS TO LOOK LIKE YOUR `\main`
 📝 USAGE NOTE
 -------------
 
-DURING DEVELOPMENT, DO LIKE THIS ON YOUR OWN DEVICE,
-
-TO MANAGE YOUR MULTIPLE PROJECTS FROM THE `\main`, USE `CopyVar` AT THE BEGINNING OF THE `Prgm` TO IMPORT THE LIBRARY LIKE `Import` IN PYTHON OR `#Include` IN C.
+To manage your multiple projects from the `\main`, use `CopyVar` at the beginning of the `Prgm` to import the library like `Import` in pyrhon or `#Include` in C.
 
     CopyVar main\LibName, appfolder\LibName
 
