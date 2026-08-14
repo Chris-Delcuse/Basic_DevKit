@@ -11,10 +11,6 @@ To manage your multiple projects from the `\main`, use `CopyVar` at the beginnin
 
     CopyVar main\LibName, appfolder\LibName
 
-This will be more consistent than handling the librairies from the `[VAR-LINK]` menu
-
-( Stay focus on your code, your final packages will be different from projects )
-
 📒 C4talog (List)
 ----------
 - Complete list of the `[CATALOG]` functions
