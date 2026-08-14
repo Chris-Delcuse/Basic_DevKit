@@ -2,24 +2,24 @@
 -------------------------
 Pay close attention when you create variables !
 
-As well as your 'Prgm' names,
+As well as your `Prgm` names,
 the use of,
 
-ALL THE NAME FUNCTIONS INTO THE [CATALOG] AND SYSTEM VARIABLES IN THE [VAR-LINK] MENU, ARE TO BE BANNED AS USER VARIABLES NAME.
+ALL THE NAME FUNCTIONS INTO THE `[CATALOG]` AND SYSTEM VARIABLES IN THE `[VAR-LINK]` MENU, ARE TO BE BANNED AS USER VARIABLES NAME.
 
 In some cases, it may NOT crash the program but due stability reasons, CONSIDERABLY increase the debugging time.
 
-This the case with the var 'mode', This var is unstable, prefer the use of 'm0de'.
+This the case with the var `mode`, this var is unstable, prefer the use of `m0de`.
 
 🛟 Pitfall to avoid :
 ---------------------
-Avoid naming your folders with only one letter, to ensure stability with 'For’ Loops :
+Avoid naming your folders with only one letter, to ensure stability with `For` Loops.
 
-Unique variables type ALPHA, are commonly used for formal computation. (or 'Func' for executables)
+Unique variables type ALPHA, are commonly used for formal computation. (or `Func` for executables)
 
 📌 My advice :
 --------------
-To protect your work, calculations, and personal settings, I strongly recommend to ban 'NewProb' from your programs.
+To protect your work, calculations, and personal settings, I strongly recommend to ban `NewProb` from your programs.
 
 Go create your cfg file, see the linear scripts section.
 
