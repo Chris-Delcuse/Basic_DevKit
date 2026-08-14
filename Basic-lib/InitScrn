@@ -21,8 +21,6 @@ Try
   ClrDraw
  EndIf
 
-DispHome
-
 Else
  setMode ("Graph","FUNCTION")→smg
  setMode("Axes","OFF")→sga
