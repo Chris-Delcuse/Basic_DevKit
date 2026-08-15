@@ -47,6 +47,10 @@ To manage your multiple projects from the `\main`, use `CopyVar` at the beginnin
 ------------
 - Check in RAM the argument is a string.
 
+©️ LICENSE
+----------
+- Required
+
 📺 LoadScrn
 -----------
 - A simple LoadScreen.
@@ -65,10 +69,6 @@ To manage your multiple projects from the `\main`, use `CopyVar` at the beginnin
 📺 ScnDtect
 -----------
 - Detect the screen configuration.
-
-©️ LICENSE
-----------
-- Required
 
 ----------
 
