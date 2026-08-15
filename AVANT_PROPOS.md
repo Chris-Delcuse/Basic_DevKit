@@ -1,3 +1,5 @@
+First to start better, you need to consider the `[var-link]` menu as a real IDE like Visual Studio.
+
 ⛔️ Variables to exclude :
 -------------------------
 Pay close attention when you create variables !
