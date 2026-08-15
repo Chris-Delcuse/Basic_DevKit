@@ -68,3 +68,7 @@ To manage your multiple projects from the `\main`, use `CopyVar` at the beginnin
 ----------
 
 **  This source, is reserved for automation and programming purposes, and don't claim to be a math reference.
+
+©️ LICENSE
+----------
+- Required
