@@ -47,7 +47,7 @@ To manage your multiple projects from the `\main`, use `CopyVar` at the beginnin
 ------------
 - Check in RAM the argument is a string.
 
-©️ LICENSE
+©️ LICENSE (Text)
 ----------
 - Required
 
