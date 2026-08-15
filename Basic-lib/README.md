@@ -65,10 +65,11 @@ To manage your multiple projects from the `\main`, use `CopyVar` at the beginnin
 📺 ScnDtect
 -----------
 - Detect the screen configuration.
-----------
 
 ©️ LICENSE
 ----------
 - Required
+
+----------
 
 **  This source, is reserved for automation and programming purposes, and don't claim to be a math reference.
