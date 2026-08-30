@@ -2,6 +2,7 @@ THEMATIC FOLDER
 
 ⛓️ InStrng2
 ------------
+- Algorithm
 - Read a string content.
 
 📝 Input Proposition :
