@@ -37,6 +37,7 @@ To manage your multiple projects from the `\main`, use `CopyVar` at the beginnin
 
 ⛓️ InStrng2
 -----------
+- Algorithm
 - Read a string content.
 
 🔢 IsEven **
