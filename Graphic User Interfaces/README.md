@@ -12,7 +12,7 @@ Usage Option 1 : inside a loop ( for, while, loop... ) with a variable.
 
 Usage Option 2 : called step by step with a decimal.
 
-    prgm
+    Prgm
     Your_Code
     loadscrn("Test","Processing...",10)
     Your_Code
