@@ -27,4 +27,4 @@ THEMATIC FOLDER
 
     pwdgen("Alpha-Num",10)
 
- ✒️ a GUI is the best way to secure entries.
+ ✒️ GUI is the best way to secure entries on this device.
