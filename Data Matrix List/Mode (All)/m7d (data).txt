@@ -1,0 +1,3 @@
+| "setMode(" | "Split Screen" |       "FULL" | ")" |
+|         "" |             "" | "TOP–BOTTOM" |  "" |
+|         "" |             "" | "LEFT–RIGHT" |  "" |
