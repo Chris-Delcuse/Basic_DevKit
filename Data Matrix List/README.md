@@ -2,7 +2,7 @@ THEMATIC FOLDER
 
 For Nspire owners interested in the method,
 
-To go further and generate code, it's necessary to investigate the system and equip yourself with structured databases like the setMode & complementary functions like the Catalog functions ( also need structuration )
+To go further and generate code, it's necessary to investigate the system and equip yourself with structured databases like the setMode...
 
 📒 C4tlg (List)
 --------
