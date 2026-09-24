@@ -15,7 +15,7 @@ Made to inspire.
   <meta itemprop="codeRepository" content="https://github.com/Chris-Delcuse/Basic_DevKit" />
   <meta itemprop="runtimePlatform" content="TI OS v3.10" />
 <div itemprop="Author" itemscope itemtype="https://schema.org/Person">
-  Author: <span itemprop="name">Chris Delcuse</span> (born <span itemprop="birthDate">1980</span>)
+  Author: <span itemprop="name">Chris Delcuse</span>
   
   <time datetime="2026-26-02">Febuary 26, 2026</time>
 </div>
