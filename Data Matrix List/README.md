@@ -16,5 +16,5 @@ Note: Locations respected with 391 functions, commands placed under character st
 📒 Mode (All)
 -------------
 - Multiple mergeable database
-
+- ( Compatible 89, Titanium, 92, 92+ & V200 )
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Data%20Matrix%20List/setModeDB.gif)
