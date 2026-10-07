@@ -13,5 +13,6 @@ To go further and generate code, it's necessary to investigate the system and eq
 
 Note: Locations respected with 391 functions, commands placed under character strings, such as called on your IDE i.e. space included !
 
-📒 m0d (data) m1d, m2d...
-------
+📒 Mode (All)
+-------------
+- Multiple mergeanle database
