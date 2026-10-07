@@ -1,4 +1,4 @@
-To be placed in the \main folder to be merged according to your convenience.
+To be placed in the `\main` folder to be merged according to your convenience.
 
 How use a part of data (list) :
 
