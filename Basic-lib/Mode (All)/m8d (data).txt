@@ -1,0 +1,9 @@
+| "setMode(" | "Split 1 App" |               "Home" | ")" |
+|         "" | "Split 2 App" |          "Y= Editor" |  "" |
+|         "" |            "" |      "Window Editor" |  "" |
+|         "" |            "" |              "Graph" |  "" |
+|         "" |            "" |              "Table" |  "" |
+|         "" |            "" | "Data/Matrix Editor" |  "" |
+|         "" |            "" |     "Program Editor" |  "" |
+|         "" |            "" |        "Text Editor" |  "" |
+|         "" |            "" |     "Numeric Solver" |  "" |

@@ -1,0 +1,2 @@
+| "setMode(" | "Apps Desktop" |  "ON" | ")" |
+|         "" |             "" | "OFF" |  "" |

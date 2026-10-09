@@ -1,0 +1,3 @@
+| "setMode(" | "Vector Format" | "RECTANGULAR" | ")" |
+|         "" |              "" | "CYLINDRICAL" |  "" |
+|         "" |              "" |   "SPHERICAL" |  "" |

@@ -1,0 +1,2 @@
+| "setMode(" | "Number of Graphs" | "1" | ")" |
+|         "" |                 "" | "2" |  "" |
