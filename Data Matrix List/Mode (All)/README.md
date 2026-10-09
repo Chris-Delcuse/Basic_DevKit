@@ -1,6 +1,3 @@
 To be placed in the `\main` folder to be merged according to your convenience.
 
-How use a part of data (list) :
-
-How to Merge :
-
+( m0d,m1d,....mzd,mtd,mθd)
