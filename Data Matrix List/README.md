@@ -13,7 +13,7 @@ To go further and generate code, it's necessary to investigate the system and eq
 
 Note: Locations respected with 391 functions, commands placed under character strings, such as called on your IDE i.e. space included !
 
-📒 Mode (All)
+🗄 Mode (All)
 -------------
 - setMode mergeable database
 - ( Compatible 89, Titanium, 92, 92+ & V200 )
